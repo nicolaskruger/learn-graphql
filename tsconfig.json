@@ -19,7 +19,8 @@
     "skipLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@dto/*": ["./src/dto/*"]
+      "@dto/*": ["./src/dto/*"],
+      "@gql/*": ["./src/gql/*"]
     }                              
   }
 }
