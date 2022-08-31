@@ -1,7 +1,7 @@
 type User = {
-    name: string
-}
+	name: string;
+};
 
-export {
-    User
-}
+export type {
+	User,
+};
